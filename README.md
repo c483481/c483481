@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Laravel** and **Nect.js**.
 - 💬 Ask me about **Typescript**, **Golang**, and **React.js**.
 - 📫 How to reach me: **charleskojansow@gmail.com**.
+- 🌐 Check out my [Portfolio Website](https://charleswilliam.vercel.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
