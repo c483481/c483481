@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c483481&label=Profile%20views&color=0e75b6&style=flat" alt="c483481" /> </p>
 
 - 🎓 I recently graduated with a Bachelor of Informatics and a GPA of 3.94.
-- 🌱 I’m currently learning **Laravel** and **Nect.js**.
+- 🌱 I’m currently learning **Laravel** and **Next.js**.
 - 💬 Ask me about **Typescript**, **Golang**, and **React.js**.
 - 📫 How to reach me: **charleskojansow@gmail.com**.
 - 🌐 Check out my [Portfolio Website](https://charleswilliam.vercel.app/) 
